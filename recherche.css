@@ -1,0 +1,11 @@
+#p1 {
+    letter-spacing: normal;
+}
+
+#p2 {
+    font-kerning: normal;
+}
+
+#p3{
+    overflow-wrap: break-word;
+}
