@@ -9,3 +9,7 @@
 #p3{
     overflow-wrap: break-word;
 }
+
+a:visited {
+    color: red;
+}
